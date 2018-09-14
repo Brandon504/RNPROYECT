@@ -1,2 +1,0 @@
-# RNPROYECT
-Created with CodeSandbox
